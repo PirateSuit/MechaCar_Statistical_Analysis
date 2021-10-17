@@ -51,12 +51,15 @@ This T-Test does show a slight statistcal difference from the population mean. W
 When choosing a car, there are many tradeoffs. For example, people may choose more power, more speed or torque, at the cost of fuel efficiency or size. Something less likely to be dismissed in favor of other aspects however, is safety. No one will care if the MechaCar gets great gas mileage or has all the great features if it will kill you at the slightest incident. 
 
 ### Metrics to Test
-
 There is certainly an onslaught of safety tests that any new vehicle goes through. From these tests, we could take and compare the front, rear, and side collision data against the competition.
 
 ### Null Hypothesis
 H0: The collision data of the MechaCar is similar to the collision data of the competitions vehicles in the same class.<br>
 Ha: The collision data of the MechaCar is statistically better or worse than the competitions vehicles in the same class.
 
+### Statistical Test Used
+A two sample T-Test would be appropriate.
 
+### What Data is Needed
+As mentioned before, we would need to gather data from crash tests, specifically here we would need front, side, and rear collision data.
 
