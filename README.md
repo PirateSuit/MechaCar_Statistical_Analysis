@@ -33,7 +33,7 @@ This T-Test does not show a statistical difference from the population mean. Wit
 This T-Test does not show a statistical difference from the population mean. With a p-value of 1, we cannot reject the null hypothesis.
 
 
-### anufacturing Lot #2
+### Manufacturing Lot #2
 
 ![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/t%20test%20lot%202.png)
 
@@ -45,6 +45,18 @@ This T-Test does not show a statistical difference from the population mean. Wit
 ![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/t%20test%20lot%203.png)
 
 This T-Test does show a slight statistcal difference from the population mean. With a p-value of .04, we could reject the null hypothesis. This lot likely warrants closer testing.
+
+## Study Design: MechaCar vs Competition
+
+When choosing a car, there are many tradeoffs. For example, people may choose more power, more speed or torque, at the cost of fuel efficiency or size. Something less likely to be dismissed in favor of other aspects however, is safety. No one will care if the MechaCar gets great gas mileage or has all the great features if it will kill you at the slightest incident. 
+
+### Metrics to Test
+
+There is certainly an onslaught of safety tests that any new vehicle goes through. From these tests, we could take and compare the front, rear, and side collision data against the competition.
+
+### Null Hypothesis
+H0: The collision data of the MechaCar is similar to the collision data of the competitions vehicles in the same class.<br>
+Ha: The collision data of the MechaCar is statistically better or worse than the competitions vehicles in the same class.
 
 
 
