@@ -23,28 +23,28 @@ All Manufacturing Lots:
 
 ![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/t%20test%20all%20lots.png)
 
-This T-Test does not show a statistical difference from the population mean. With a p-value of .06, we cannot reject the null hypothesis.
+This T-Test does not show a statistical difference from the population mean. With a p-value of .06, we cannot reject the null hypothesis.  
 
 
 Manufacturing Lot #1:
 
 ![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/t%20test%20lot%201.png)
 
-This T-Test does not show a statistical difference from the population mean. With a p-value of 1, we cannot reject the null hypothesis.
+This T-Test does not show a statistical difference from the population mean. With a p-value of 1, we cannot reject the null hypothesis.  
 
 
 Manufacturing Lot #2
 
 ![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/t%20test%20lot%202.png)
 
-This T-Test does not show a statistical difference from the population mean. With a p-value of .06, we cannot reject the null hypothesis.
+This T-Test does not show a statistical difference from the population mean. With a p-value of .06, we cannot reject the null hypothesis.  
 
 
 Manufacturing Lot #3
 
 ![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/t%20test%20lot%203.png)
 
-This T-Test does show a slight statistcal difference from the population mean. With a p-value of .04, we could reject the null hypothesis. This lot likely warrants closer testing.
+This T-Test does show a slight statistcal difference from the population mean. With a p-value of .04, we could reject the null hypothesis. This lot likely warrants closer testing.  
 
 
 
