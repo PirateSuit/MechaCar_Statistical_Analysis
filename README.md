@@ -14,3 +14,11 @@ With a r-squared value of 0.7149, indicating a 71% rate, this linear model does 
 ## Summary Statistics on Suspension Coils
 ![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/total%20summary.png)
 ![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/lot%20summary.png)
+
+The variance of the lots overall does fall under the 100 PSI threshold, at 62.3. However, when we dig into individual lots, we run into an issue. At .98 PSI variance and 7.47 PSI variance, lots 1 and 2, respectively, meet expectations. At a variance of 170.27 PSI, lot 3 does not.
+
+## T-Tests on Suspension Coils
+![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/t%20test%20all%20lots.png)
+![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/t%20test%20lot%201.png)
+![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/t%20test%20lot%202.png)
+![image name](https://github.com/PirateSuit/MechaCar_Statistical_Analysis/blob/main/Resources/t%20test%20lot%203.png)
